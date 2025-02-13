@@ -7,7 +7,7 @@ module ecmwf_ngw
 contains
 
 
-!!! different orientation for vertical
+!!! different orientation for vertical levels
 !!! 1 is the highest level for ECMWF, 1 is the lowest level for GFS
 !---------------------------------------------------
 
